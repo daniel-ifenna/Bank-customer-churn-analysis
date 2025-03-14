@@ -69,4 +69,4 @@ To reduce customer churn, the bank can implement the following strategies:
 
 ## Regression Tree Visualization  
 [](R.tree%20chart.png)  
-[View R Code]([https://github.com/daniel-ifenna/Bank-customer-churn-analysis/blob/7b8708649fa256480f4f7dbdc449a7bed7e4ce38/Customer_churn%20data%20cleaning.sql](https://github.com/daniel-ifenna/Bank-customer-churn-analysis/blob/f8362c2110515d6cd205ee9499d9e744d42dece1/Bank%20customer%20churn.R)) 
+[View R Code](https://github.com/daniel-ifenna/Bank-customer-churn-analysis/blob/f8362c2110515d6cd205ee9499d9e744d42dece1/Bank%20customer%20churn.R)
