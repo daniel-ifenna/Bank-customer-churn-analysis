@@ -7,7 +7,7 @@ This project aims to identify factors leading to customer churn based on various
 `credit_score` `country` `gender` `age`  
 `tenure` `balance` `products_number` `credit_card`  
 `active_member` `estimated_salary` `churn`  
-
+[Download dataset](https://1drv.ms/x/c/fc11b36f16d1a624/Ec1YwCzWIo9Fkd7McLp7h2kB-uO5iYnTOeNeKGc9mv2g2Q?e=Dyk4pE)
 ## Objectives  
 1. What are the key factors influencing customer churn?  
 2. How does customer churn vary across countries?  
@@ -50,8 +50,8 @@ Thus, the **Regression Tree model** was selected for deeper insights.
 - **Germany**: Highest churn rate, especially among **older customers with limited product holdings**.  
 - **France & Spain**: **Lower churn rates**, especially for customers **with active memberships**.  
 
-[](Country%20~%20churn.png)                 
-[](/Churn%20vary%20by%20country.png)
+![](Country%20~%20churn.png)                 
+![](/Churn%20vary%20by%20country.png)
 
 ### **3. Which customer segments are most at risk of churning?**  
 - **Customers over 50 years old**  
@@ -68,5 +68,5 @@ To reduce customer churn, the bank can implement the following strategies:
 5. **Salary-Based Incentives** – Provide **special incentives** for customers with **lower estimated salaries**.  
 
 ## Regression Tree Visualization  
-[](R.tree%20chart.png)  
+![](R.tree%20chart.png)  
 [View R Code](https://github.com/daniel-ifenna/Bank-customer-churn-analysis/blob/f8362c2110515d6cd205ee9499d9e744d42dece1/Bank%20customer%20churn.R)
