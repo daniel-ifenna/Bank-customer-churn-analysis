@@ -50,7 +50,8 @@ Thus, the **Regression Tree model** was selected for deeper insights.
 - **Germany**: Highest churn rate, especially among **older customers with limited product holdings**.  
 - **France & Spain**: **Lower churn rates**, especially for customers **with active memberships**.  
 
-[Bar Plot](Country%20~%20churn.png)                 []()
+[Bar Plot](Country%20~%20churn.png)                 
+[Figure](/Churn%20vary%20by%20country.png)
 
 ### **3. Which customer segments are most at risk of churning?**  
 - **Customers over 50 years old**  
