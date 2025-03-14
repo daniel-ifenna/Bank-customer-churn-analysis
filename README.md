@@ -50,8 +50,8 @@ Thus, the **Regression Tree model** was selected for deeper insights.
 - **Germany**: Highest churn rate, especially among **older customers with limited product holdings**.  
 - **France & Spain**: **Lower churn rates**, especially for customers **with active memberships**.  
 
-[Bar Plot](Country%20~%20churn.png)                 
-[Figure](/Churn%20vary%20by%20country.png)
+[](Country%20~%20churn.png)                 
+[](/Churn%20vary%20by%20country.png)
 
 ### **3. Which customer segments are most at risk of churning?**  
 - **Customers over 50 years old**  
@@ -68,5 +68,5 @@ To reduce customer churn, the bank can implement the following strategies:
 5. **Salary-Based Incentives** – Provide **special incentives** for customers with **lower estimated salaries**.  
 
 ## Regression Tree Visualization  
-***(Insert Regression Tree Chart Here)***  
+[](R.tree%20chart.png)  
 [View R Code](https://github.com/daniel-ifenna/Bank-customer-churn-analysis/blob/7b8708649fa256480f4f7dbdc449a7bed7e4ce38/Customer_churn%20data%20cleaning.sql) 
