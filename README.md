@@ -25,7 +25,7 @@ Using **SQL**, the **distribution of customer churn** was analyzed, revealing th
 - **Churned Customers:** **20.4%**  
 - **Non-Churned Customers:** **79.6%**  
 
-[View SQL Code]()  
+[View SQL Code](https://github.com/daniel-ifenna/Bank-customer-churn-analysis/blob/7b8708649fa256480f4f7dbdc449a7bed7e4ce38/Customer_churn%20data%20cleaning.sql)  
 
 The cleaned data was then imported into **R** for modeling.  
 
@@ -68,3 +68,4 @@ To reduce customer churn, the bank can implement the following strategies:
 
 ## Regression Tree Visualization  
 ***(Insert Regression Tree Chart Here)***  
+[View R Code](https://github.com/daniel-ifenna/Bank-customer-churn-analysis/blob/7b8708649fa256480f4f7dbdc449a7bed7e4ce38/Customer_churn%20data%20cleaning.sql) 
