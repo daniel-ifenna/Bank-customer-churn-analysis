@@ -42,7 +42,7 @@ Thus, the **Regression Tree model** was selected for deeper insights.
 ### **1. What are the key factors influencing customer churn?**  
 - **Age**: Customers **over 50** are more likely to churn.  
 - **Active Membership**: **Inactive** customers show a **higher churn probability**.  
-- **Number of Products**: Customers with **more than two products** have **higher churn risk**.  
+- **Number of Products**: Customers with **less than two products** have **higher churn risk**.  
 - **Estimated Salary**: Customers with **lower estimated salaries** tend to churn more.  
 - **Country**: Customers from **Germany** exhibit a **higher churn rate**.  
 
