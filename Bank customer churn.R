@@ -54,3 +54,13 @@ Accuracy.Tree<- round(sum(diag(Tree)/sum(Tree))*100, digits = 1)
 print(Accuracy.Tree)
 
 
+# Preparing for dashboard visualization
+Churn$credit_card<- factor(Churn$credit_card, levels = c(0,1),
+                                              labels =  c("No Credit card", "Credit card"))
+Churn$active_member<- factor(Churn$active_member, levels = c(0,1),
+                                                    labels = c("Not active", "Active"))
+Churn$gender<- as.factor(Churn$gender)
+
+write.csv(Churn, "Churned.csv")
+
+
