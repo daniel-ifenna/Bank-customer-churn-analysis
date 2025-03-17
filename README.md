@@ -67,9 +67,10 @@ To reduce customer churn, the bank can implement the following strategies:
 4. **Customize Regional Strategies** – Focus on **Germany** with **personalized offers**.  
 5. **Salary-Based Incentives** – Provide **special incentives** for customers with **lower estimated salaries**.  
 
-## Regression Tree Visualization  
-![](R.tree%20chart.png)  
 [View R Code](https://github.com/daniel-ifenna/Bank-customer-churn-analysis/blob/f8362c2110515d6cd205ee9499d9e744d42dece1/Bank%20customer%20churn.R)
 
 
-![](/Churn%20vary%20by%20country.png)
+## Regression Tree Visualization  
+![](R.tree%20chart.png)  
+## Dashboard Visualization
+![](Screenshot 2025-03-17 175503.png)
