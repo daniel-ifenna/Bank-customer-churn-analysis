@@ -1,31 +1,30 @@
 # Customer Churn Analysis Report  
+- Prepared by: Ifenna Daniel
+- Client: Confidential Financial Institution
+- Sector: Banking and Finance
+- Date: June 2025
 
 ## Introduction  
-Customer churn is a critical issue for financial institutions, impacting revenue and long-term business sustainability.  
-This project aims to identify factors leading to customer churn based on various attributes:  
+Customer churn is a critical issue for financial institutions, impacting revenue and long-term business sustainability. My clients are experiencing a significant issue with customer retention.
 
-`credit_score` `country` `gender` `age`  
-`tenure` `balance` `products_number` `credit_card`  
-`active_member` `estimated_salary` `churn`  
-[Download dataset](https://1drv.ms/x/c/fc11b36f16d1a624/Ec1YwCzWIo9Fkd7McLp7h2kB-uO5iYnTOeNeKGc9mv2g2Q?e=Dyk4pE)
-## Objectives  
+## Objectives 
+My role is to design and deploy a machine learning model that predicts which customers are likely to churn based on the given variables present in the dataset. Also to answer the following questions
 1. What are the key factors influencing customer churn?  
 2. How does customer churn vary across countries?  
 3. Which customer segments are most at risk of churning?  
 4. What is the accuracy of the predictive model?  
 
-## Technical Tools  
-- MySQL  
-- R Programming  
+### Technical Tools  
+- Regression Tree
+- Decision Tree 
+- R Programming
+- Tableau 
 
 ## Data Preprocessing and Manipulation  
-The data was imported into **MySQL** for cleaning. There were **no missing values or duplicates**. The column **`Customer_Id`** was dropped to optimize the dataset for analysis.  
-
-Using **SQL**, the **distribution of customer churn** was analyzed, revealing the following:  
+Performed exploratory data analysis. There were **no missing values or duplicates**. The column **`Customer_Id`** was dropped to optimize the dataset for analysis.  
+Also, discovered **distribution of customer churn** was analyzed, revealing the following:  
 - **Churned Customers:** **20.4%**  
 - **Non-Churned Customers:** **79.6%**  
-
-[View SQL Code](https://github.com/daniel-ifenna/Bank-customer-churn-analysis/blob/7b8708649fa256480f4f7dbdc449a7bed7e4ce38/Customer_churn%20data%20cleaning.sql)  
 
 The cleaned data was then imported into **R** for modeling.  
 
@@ -67,13 +66,11 @@ To reduce customer churn, the bank can implement the following strategies:
 4. **Customize Regional Strategies** – Focus on **Germany** with **personalized offers**.  
 5. **Salary-Based Incentives** – Provide **special incentives** for customers with **lower estimated salaries**.  
 
-[View R Code](https://github.com/daniel-ifenna/Bank-customer-churn-analysis/blob/f8362c2110515d6cd205ee9499d9e744d42dece1/Bank%20customer%20churn.R)
 
 
 ## Regression Tree Visualization  
 ![](R.tree%20chart.png)  
-## Dashboard Visualization
-![](Screenshot%202025-03-17%20175503.png)
+
 
 # Dashboard link
 [Tableau Churn](https://public.tableau.com/app/profile/ifenna.daniel/viz/Churnproject_17422301347520/Dashboard1?publish=yes)
