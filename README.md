@@ -71,6 +71,7 @@ To reduce customer churn, the bank can implement the following strategies:
 ## Regression Tree Visualization  
 ![](R.tree%20chart.png)  
 
-
+--
+[Download PDF Report](Predictive%20model%20report.pdf)
 # Dashboard link
 [Tableau Churn](https://public.tableau.com/app/profile/ifenna.daniel/viz/Churnproject_17422301347520/Dashboard1?publish=yes)
